@@ -10,4 +10,4 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### ERD Diagram
 
-![Screenshot 1](C:\Users\hsman\Programming\SQL\Library_management_project)
+![Screenshot 1](https://github.com/hsmanik/Library_Management_SQL/blob/main/Library_Management_ERD.png)
